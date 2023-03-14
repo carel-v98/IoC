@@ -1,4 +1,3 @@
-﻿event
 Setup
 SMSApi
 System
